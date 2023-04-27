@@ -1,0 +1,13 @@
+# package directories
+node_modules
+jspm_packages
+.idea
+
+# serverless directories
+.serverless
+.env
+
+# generated stuff
+src/.validators/
+.oas
+.build
